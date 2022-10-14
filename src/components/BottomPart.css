@@ -1,0 +1,8 @@
+.BottomPart{
+    background-color: rgba(220, 20, 60, 0.758);
+    border: 2px solid crimson;
+    box-shadow: 2px 2px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: 500;
+}
