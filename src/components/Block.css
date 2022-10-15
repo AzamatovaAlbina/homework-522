@@ -1,0 +1,17 @@
+.block {
+  width: 200px;
+  height: 200px;
+  box-shadow:  3px 3px rgba(0, 0, 0, 0.479);
+}
+.yellow {
+  background-color: yellow; 
+}
+.green{
+    background-color: green;
+}
+.lime{
+    background-color: lime;
+}
+.red{
+    background-color: red;
+}
